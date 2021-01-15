@@ -1,0 +1,9 @@
+__ignore__
+_background_
+Danboard_f
+Danboard_b
+ChiliFlakes_f
+ChiliFlakes_b
+Block
+BlackPepper_f
+BlackPepper_b
